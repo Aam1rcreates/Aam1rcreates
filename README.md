@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Aamir from India. A Data Analyst wannabe.<br><br>- 🔭 I’m working on "Guess the Indian State Game" as of now.<br>- 📚 I'm currently learning Python libraries and also preparing for AWS Certified Solutions Architect – Associate Certification.<br>- ⚡ I'm also participating in 100 days of Python right now.<br>- 💻 Nowadays, I spend most of my time on my <a href="https://www.kaggle.com/mdaamirshekh" target="_blank">Kaggle</a> account, solving competitive Machine Learning questions.<br>- 🦇 Here's a secret, I am Batman!</p>
+<p align="left">I'm Aamir from India. A Data Analyst wannabe.<br><br>- 🔭 I’m working on "Guess the Indian State Game" as of now.<br>- 📚 I'm currently learning Python libraries and also preparing for AWS Certified Solutions Architect – Associate Certification.<br>- ⚡ I'm also participating in 100 days of Python right now.<br>- 💻 I spend most of my time on my <a href="https://www.kaggle.com/mdaamirshekh" target="_blank">Kaggle</a> account, solving competitive Machine Learning problems.<br>- 🦇 Here's a secret, I am Batman!</p>
 
 ###
 
