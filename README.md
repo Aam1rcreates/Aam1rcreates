@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Aamir from India. A Data Analyst wannabe.<br><br>- 📚 I'm currently learning Python libraries and also preparing for AWS Certified Solutions Architect – Associate Certification.<br>- ⚡ I'm also participating in 100 days of Python right now.<br>- 💻 I spend most of my time on my <a href="https://www.kaggle.com/mdaamirshekh" target="_blank">Kaggle</a> account, solving competitive Machine Learning problems.<br>- 🦇 Here's a secret, I am Batman!</p>
+<p align="left">I'm Aamir from India. A Full-Stack developer wannabe.<br><br>- 📚 I'm currently diving deep into the world of React and building several projects regularly. And for the backend, I have good understanding of Django and Flask.<br>- ⚡ I'm for a web developer role in any startup.<br>- 💻 I spend most of my time in building projects using my learning.<br>- 🦇 Here's a secret, I am Batman!</p>
 
 ###
 
