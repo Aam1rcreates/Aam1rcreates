@@ -33,11 +33,17 @@
 
 ###
 
-<p align="left">I'm Aamir from India. A Full-Stack developer wannabe.<br><br>- 📚 I'm currently diving deep into the world of Backend and building several projects regularly. And for the frontend, I have a good understanding of React as well as NextJS. <br>- I'm also learning and building a compiler using Rust. <br>- ⚡ I'm looking for a web developer role in any startup if you like my profile be sure to ping me, I would love to connect with you.<br>- 💻 I spend most of my time in building projects using my learning.<br>- 🦇 Here's a secret, I am Batman!</p>
+<p align="left">
+  I'm Aamir from India. A Full-Stack developer wannabe.<br>
+  - 📚 I'm currently diving deep into the world of Backend and building several projects regularly. And for the frontend, I have a good understanding of React as well as NextJS. <br>
+  - 🧮I'm also learning and building a compiler using Rust. <br>
+  - ⚡ I'm looking for a web developer role in any startup if you like my profile be sure to ping me, I would love to connect with you.<br>
+  - 💻 I spend most of my time in building projects using my learning.<br>- 🦇 Here's a secret, I am Batman!</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
